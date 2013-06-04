@@ -1,0 +1,8 @@
+CPAN_AUTHOR=grantm
+inherit perl
+
+NAME="perl-XML-SAX-Base"
+VERSION=1.08
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl base class for SAX Drivers and Filters"
